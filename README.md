@@ -18,6 +18,7 @@ This is a simple Flutter app. To run this code or to get a apk build of this pro
 - With Provider State management
 - Scalable and Performance oriented design
 
+
 ### Development Environment
 ------------
 - Flutter: 3.7.12
